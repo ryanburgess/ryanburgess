@@ -1,6 +1,6 @@
 [![Ryan's GitHub Banner](./img/banner.png)](https://ryanburgess.com)
 
-[![Twitter icon](./img/twitter.png)](https://twitter.com/burgessdryan) [![Instagram icon](./img/instagram.png)](https://instagram.com/ryan.burgess)
+[![Twitter icon](./img/twitter.png)](https://twitter.com/burgessdryan) [@burgessdryan](https://twitter.com/burgessdryan) [![Instagram icon](./img/instagram.png)](https://instagram.com/ryan.burgess) [@ryan.burgess](https://instagram.com/ryan.burgess)
 
 ### Hi there 👋
 
