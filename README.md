@@ -4,6 +4,6 @@ I'm a Software Engineering Manager at Netflix, leading the Developer Infrastruct
 
 I'm the host of the popular engineering podcast, [Front End Happy Hour](https://www.frontendhappyhour.com), where a group of engineers from Netflix, Atlassian, Twitch, and Airbnb talk over drinks about careers and coding.
 
-:Man technologist: Will code for tattoos :Syringe:
+💻 Will code for tattoos 💉
 
 He/him/his
