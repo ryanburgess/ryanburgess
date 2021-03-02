@@ -1,4 +1,4 @@
-[![Ryan's GitHub Banner](./img/banner.jpg)](https://ryanburgess.com)
+[![Ryan's GitHub Banner](./img/banner.png)](https://ryanburgess.com)
 
 ### Hi there 👋
 
