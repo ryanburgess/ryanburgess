@@ -1,3 +1,5 @@
+[![Ryan's GitHub Banner](./img/banner.jpg)](https://ryanburgess.com)
+
 ### Hi there 👋
 
 I'm a Software Engineering Manager at Netflix, leading the Developer Infrastructure and Tools team in Productivity Engineering. I'm passionate about building inclusive, high performing engineering teams.
